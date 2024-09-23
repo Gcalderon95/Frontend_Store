@@ -1,0 +1,3 @@
+Este proyecto fue desarrollado por Guillermo Calderón Martínez,  una tienda online desarrollada exclusivamente con HTML5 y CSS3, utilizando Flexbox y CSS Grid para crear una interfaz responsiva y atractiva. Incluye un catálogo de productos con imágenes, descripciones y precios, asegurando una experiencia de usuario fluida en dispositivos móviles y de escritorio. La maquetación organizada y los estilos minimalistas garantizan un diseño moderno y accesible.
+
+LinkedIn: linkedin.com/in/guillermo-calderon
